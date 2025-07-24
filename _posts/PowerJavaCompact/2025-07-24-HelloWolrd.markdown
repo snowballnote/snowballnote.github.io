@@ -1,3 +1,8 @@
+---
+layout: single
+title: "HelloWorld"
+---
+
 <code>
 
 **public** **class** Hello_world {
